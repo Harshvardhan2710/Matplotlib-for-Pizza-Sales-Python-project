@@ -1,8 +1,5 @@
+![image](https://github.com/user-attachments/assets/026152b9-8c4f-4c89-af5b-5e8d3b629bd0)
 
-![Hpizza](https://github.com/user-attachments/assets/c209706c-d5cc-46be-a181-1427c925668a)
+![Hpizza](https://github.com/user-attachments/assets/5fb9d183-1a14-4434-9d62-fbfb202b3d89)
 
-
-[Hcpizza.pdf](https://github.com/user-attachments/files/16250366/Hcpizza.pdf)
-
-
-[pizza.csv](https://github.com/user-attachments/files/16250371/pizza.csv)
+![image](https://github.com/user-attachments/assets/e38e5597-5add-4746-8baa-577f538f8b6f)
